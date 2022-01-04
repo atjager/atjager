@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I work as a software developer in Hungary.
+
+- I study Computer Science Engineering at University. (6th semester)
+- I'm currently working on projects with Java-Spring-Vue and C# as my full-time job.
+- I'm also interested in Arduino, esp32, esp8266, PHP, Python, Bash, Docker.
+
 <!--
 **atjager/atjager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
